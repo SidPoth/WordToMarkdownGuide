@@ -18,7 +18,7 @@ Markdown has slowly become the standard for creating websites due to being far e
 5. Enter into the folder that your word document is stored on Command Prompt.
     1. Open file explorer and navigate to where you saved your word document.
     2. In the bar at the top of you explorer click and copy the C:\path\to\file\
-    3. Return to Command Prompt and use the command cd C:\path\to\file
+    3. Return to Command Prompt and use the command ```cd C:\path\to\file```
 6. Once you have entered into the folder where your file is stored in Command Prompt, use the command \
 
     ```
