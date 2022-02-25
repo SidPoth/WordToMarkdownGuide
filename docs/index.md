@@ -28,5 +28,5 @@ Markdown has slowly become the standard for creating websites due to being far e
 
 ## Common Errors
 If you run into any errors converting your files, check to make sure that you have followed all the guidelines included below.
-- Ensure that your word document is in the .docx format.
-- Ensure that your are in the appropriate folder where your file is stored.
+- Ensure that you're word document is in the .docx format.
+- Ensure that you're are in the appropriate folder where your file is stored.
