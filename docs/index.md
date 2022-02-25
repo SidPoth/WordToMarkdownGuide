@@ -6,7 +6,7 @@
 3. [Common Errors](#common-errors)
 
 ## Introduction
-Markdown has slowly become the standard for creating websites due to being easy to use. In this guide we will go over how to convert your word documents to markdown files automatically using Pandoc. The reason we use Pandoc is that it supports multiple flavors of markdown, the most reputable being the [Github Flavor Markdown spec](https://github.github.com/gfm/) which is what we will be using in this class.
+Markdown has slowly become the standard for creating websites due to being far easier than its competitions for basic level website posts. In this guide we will go over how to convert your word documents to markdown files automatically using Pandoc. The reason we use Pandoc is that it supports multiple flavors of markdown, the most reputable being the [Github Flavor Markdown spec](https://github.github.com/gfm/) which is what we will be using in this class.
 
 ## Instructions
 1. The first step is to install [Pandoc](https://pandoc.org/installing.html) if you have not already.
