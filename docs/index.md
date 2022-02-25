@@ -20,6 +20,7 @@ Markdown has slowly become the standard for creating websites due to being easy 
     2. In the bar at the top of you explorer click and copy the C:\path\to\file\
     3. Return to Command Prompt and use the command cd C:\path\to\file
 6. Once you have entered into the folder where your file is stored in Command Prompt, use the command \
+
     ```
     pandoc -t gfm --extract-media . -o [file].md [file].docx
     ```
